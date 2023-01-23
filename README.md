@@ -1,8 +1,8 @@
 
 ![ass_gmail_top_02](https://user-images.githubusercontent.com/61251913/214068452-946706ca-08fc-47c8-9df2-49a68f4fd4b2.gif)
 
-  
-## Olá, meu nome é Antonio Andrade !!!
+<h1 align="center"> Olá, meu nome é Antonio Andrade !!! </h1>
+
 ### Seja bem-vindo ao meu perfil no github 👋👋👋
 
 *🔭 Estou trabalhando atualmente em alguns projetos independentes de interesse pessoal, com objetivo de agregar conhecimentos na área de Ciência de Dados.  

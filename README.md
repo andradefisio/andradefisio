@@ -32,7 +32,7 @@
   
   Publicações:
   
-  Dissertação de Mestrado: http://bit.ly/3JbpFTO
+  Dissertação de Mestrado: https://www.teses.usp.br/teses/disponiveis/17/17152/tde-04082021-140927/publico/ANTONIOCARLOSFERRAZDEANDRADEco.pdf   
     
   Artigo: https://www.mdpi.com/2008256
 

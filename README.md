@@ -5,7 +5,7 @@
 
 <span style="text-align:center"></span>
 
-<h1 align="center"> Olá, meu nome é Antonio Andrade !!! </h1>
+<h2 align="center"> Olá, meu nome é Antonio Andrade !!! </h2>
 
 ### Seja bem-vindo ao meu perfil no github 👋👋👋
 

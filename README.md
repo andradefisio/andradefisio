@@ -2,9 +2,6 @@
   <img src="https://user-images.githubusercontent.com/61251913/214117778-186acb7b-0138-4612-b8f3-0a70812d4db1.gif"/>
 </p>
 
-
-<span style="text-align:center"></span>
-
 <h2 align="center">Olá, meu nome é Antonio Andrade!</h2>
 
 ### Seja bem-vindo ao meu perfil no github 👋👋👋

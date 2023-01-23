@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61251913/214117778-186acb7b-0138-4612-b8f3-0a70812d4db1.gif"/>
+</p>
 
-![ass_gmail_top_02](https://user-images.githubusercontent.com/61251913/214068452-946706ca-08fc-47c8-9df2-49a68f4fd4b2.gif)
+
+<span style="text-align:center"></span>
 
 <h1 align="center"> Olá, meu nome é Antonio Andrade !!! </h1>
 

@@ -1,6 +1,40 @@
-# Olá, meu nome é Antonio Andrade !!!
-Seja bem-vindo ao meu perfil no github 👋👋👋
+
 ![ass_gmail_top_02](https://user-images.githubusercontent.com/61251913/214068452-946706ca-08fc-47c8-9df2-49a68f4fd4b2.gif)
+
+  
+## Olá, meu nome é Antonio Andrade !!!
+### Seja bem-vindo ao meu perfil no github 👋👋👋
+
+*🔭 Estou trabalhando atualmente em alguns projetos independentes de interesse pessoal, com objetivo de agregar conhecimentos na área de Ciência de Dados.  
+
+*🌱 Atualmente estou faço um curso de extensão oferecido pelo Instituto de Ciências Matemáticas e Computação da USP: "Introdução à Teoria das Probabilidades".
+
+*👯 Vou iniciar, juntamente com mais 7 colegas, o "Projeto Integrador I" do curso de graduação em Ciência de Dados. 
+
+*🤔 Estou disponível para ser mentorado na área de Ciência de Dados.
+
+
+## Contatos:
+
+  
+  email: 2104599@aluno.univesp.br
+  
+  Canal no youtube (em desenvolvimento): http://bit.ly/3kA7Rrd  
+    
+  Perfil no linkedin: https://bit.ly/3kx4q4c 
+  
+  Twitter: https://twitter.com/andradefisio97
+  
+  Currículo lattes: http://lattes.cnpq.br/6783989139491034
+  
+  Medium: https://medium.com/@antonioandrade_73088
+  
+  Publicações:
+  
+  Dissertação de Mestrado:  https://www.teses.usp.br/teses/disponiveis/17/17152/tde-04082021-140927/publico/ANTONIOCARLOSFERRAZDEANDRADEco.pdf
+    
+  Artigo: https://www.mdpi.com/2008256
+
 
 <!--
 **andradefisio/andradefisio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

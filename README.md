@@ -22,13 +22,13 @@
   
   Canal no youtube (em desenvolvimento): http://bit.ly/3kA7Rrd  
     
-  Perfil no linkedin: https://bit.ly/3kx4q4c 
-  
   Twitter: https://twitter.com/andradefisio97
   
   Currículo lattes: http://lattes.cnpq.br/6783989139491034
   
   Medium: https://medium.com/@antonioandrade_73088
+  
+  Perfil no linkedin: https://bit.ly/3kx4q4c 
   
   Publicações:
   

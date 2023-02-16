@@ -6,7 +6,7 @@
 
 ### Seja bem-vindo ao meu perfil no github 👋👋👋
 
-*🔭 Estou trabalhando atualmente em projetos independentes de interesse pessoal, com objetivo de agregar conhecimentos na área de Ciência de Dados.  
+*🔭 Estou trabalhando atualmente em projetos independentes de interesse pessoal, com objetivo de agregar conhecimentos na área de Ciência de Dados. Também estou em busca de algo diretamente relacionado à Ciência de Dados.   
 
 *🌱 Atualmente estou fazendo um curso de extensão oferecido pelo Instituto de Ciências Matemáticas e Computação da USP: "Introdução à Teoria das Probabilidades".
 
